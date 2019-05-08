@@ -1,2 +1,2 @@
 # portfolio
-React App for portfolio
+portfolio website created while learning for React js
