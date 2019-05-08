@@ -1,0 +1,26 @@
+@font-face{
+    font-family: 'RobotpCondensed';
+    src: url(assets/roboto-condensed.light.ttf);
+    font-weight: 800;
+}
+
+@font-face{
+    font-family: 'Economica';
+    src: url(assets/economica-bold.ttf);
+    font-weight: 800;
+}
+
+body {
+    font-size: 20px;
+    font-family: calibri;
+    padding: 2.5%;
+    text-align: center !important;
+    background-image: url(assets/background2.jpg)
+}
+
+.profile {
+    height: 200px;
+    width: 200px;
+    border-radius: 100px;
+}
+
