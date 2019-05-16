@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.c18a801e.chunk.css",
+    "main.js": "/portfolio/static/js/main.5bbe0635.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.5bbe0635.chunk.js.map",
+    "runtime~main.js": "/portfolio/static/js/runtime~main.f308c8e6.js",
+    "runtime~main.js.map": "/portfolio/static/js/runtime~main.f308c8e6.js.map",
+    "static/css/2.22a7d4ef.chunk.css": "/portfolio/static/css/2.22a7d4ef.chunk.css",
+    "static/js/2.4e2a0beb.chunk.js": "/portfolio/static/js/2.4e2a0beb.chunk.js",
+    "static/js/2.4e2a0beb.chunk.js.map": "/portfolio/static/js/2.4e2a0beb.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.89ef3195865f7a529a29fa66ec38172e.js": "/portfolio/precache-manifest.89ef3195865f7a529a29fa66ec38172e.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/2.22a7d4ef.chunk.css.map": "/portfolio/static/css/2.22a7d4ef.chunk.css.map",
+    "static/css/main.c18a801e.chunk.css.map": "/portfolio/static/css/main.c18a801e.chunk.css.map",
+    "static/media/DataScience.png": "/portfolio/static/media/DataScience.60244434.png",
+    "static/media/Profile1.png": "/portfolio/static/media/Profile1.6e12319f.png",
+    "static/media/index.css": "/portfolio/static/media/roboto-condensed.light.cf4449c1.ttf",
+    "static/media/email_icon.png": "/portfolio/static/media/email_icon.fd99f8e3.png",
+    "static/media/github_icon.png": "/portfolio/static/media/github_icon.e2a62886.png",
+    "static/media/linkedin_icon.png": "/portfolio/static/media/linkedin_icon.56ab00e8.png",
+    "static/media/machineLearning.png": "/portfolio/static/media/machineLearning.69f1e090.png",
+    "static/media/otherProject.jpg": "/portfolio/static/media/otherProject.639f0fa4.jpg",
+    "static/media/twitter_icon.png": "/portfolio/static/media/twitter_icon.512536cb.png"
+  }
+}
